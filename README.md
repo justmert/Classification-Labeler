@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="labeler" width="70%" src="media/labeler.png"/>
+  <img alt="labeler" width="50%" src="media/labeler.png"/>
 </div>
 
 ## Classification-Labeler
